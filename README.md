@@ -53,4 +53,4 @@ Data directory contains datasets used in the Flask project. The data included he
 
 ## License
 
-Specify the license under which your project is distributed. For example, [MIT License](LICENSE).
+This project was completed with my colleague Dimitrios Koliatos.
